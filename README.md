@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...uma garantidora locatícia
-- 🌱 I’m currently learning ... ferramentas de análise de business intelligence
+- 🔭 I’m currently working on uma garantidora locatícia
+- 🌱 I’m currently learning ferramentas de análise de business intelligence
 - 💬 Ask me about ...
-- 📫 How to reach me: ...em meu linkedin https://www.linkedin.com/in/tatianeasilva/
-- 😄 Pronouns: ...ela/dela
-- ⚡ Fun fact: ...Adoro doramas
+- 📫 How to reach me:https://www.linkedin.com/in/tatianeasilva/
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact:Adoro doramas
 -->
